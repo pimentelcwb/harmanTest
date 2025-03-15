@@ -3,6 +3,7 @@ This repository provides a structured approach to **panel data analysis**, utili
 
 By implementing **panel regression models**, this script enables users to analyze relationships between independent variables (**IVs**) and a dependent variable (**DV**) while handling potential omitted variable bias.
 
+---
 
 # Objective
 This repository is designed to:
@@ -10,6 +11,8 @@ This repository is designed to:
 2. Conduct the **Hausman Test** to compare the two models and determine which is more appropriate.
 3. Provide a **simple linear regression** as a baseline for comparison.
 4. Offer a **structured and adaptable framework** for users working with panel data.
+
+---
 
 ## Key Concepts
 
@@ -19,7 +22,6 @@ Panel data tracks the same entities (e.g., firms, countries, individuals) over m
 - Captures **dynamic effects** that cross-sectional studies cannot.
 - Reduces **omitted variable bias** by leveraging variation within entities.
 
----
 
 ### **2. Fixed vs. Random Effects Models**
 #### **Fixed Effects Model**
@@ -32,7 +34,6 @@ Panel data tracks the same entities (e.g., firms, countries, individuals) over m
 - More efficient than fixed effects if the assumption holds.
 - Recommended when variation across entities is **random and not systematically related to predictors**.
 
----
 
 ### **3. Hausman Test for Model Selection**
 The **Hausman Test** determines whether **fixed effects or random effects** should be used:
@@ -59,3 +60,12 @@ Comprehensive documentation detailing:
 - How to **adapt it to different datasets**.
 - **Theoretical background** on panel models.
 - A step-by-step **workflow** for implementation.
+
+---
+
+## References
+GUJARATI, Damodar N. Basic Econometrics. 4. ed. New York: The McGraw-Hill Companies Inc., 2004.  
+HAUSMAN, J. A. Specification Tests in Econometrics. Econometrica
+Vol. 46, No. 6 (Nov., 1978), pp. 1251-1271
+WOOLDRIGE, Jeffrey M. Regression Analysis with Cross-Sectional Data. In: Introductory Econometrics: A Modern Approach. 5. ed. South-Western: Cengage Learning, 2013.
+
