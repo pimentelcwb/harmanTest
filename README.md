@@ -65,4 +65,4 @@ Comprehensive documentation detailing:
 - GUJARATI, Damodar N. Basic Econometrics. 4. ed. New York: The McGraw-Hill Companies Inc., 2004.
 - HAUSMAN, J. A. Specification Tests in Econometrics. Econometrica Vol. 46, No. 6 (Nov., 1978), pp. 1251-1271.
 - WOOLDRIGE, Jeffrey M. Regression Analysis with Cross-Sectional Data. In: Introductory Econometrics: A =Modern Approach. 5. ed. South-Western: Cengage Learning, 2013.
-- 
+  
