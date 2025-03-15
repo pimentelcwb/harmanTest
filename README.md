@@ -45,7 +45,7 @@ The **Hausman Test** determines whether **fixed effects or random effects** shou
 
 ## Repository Contents
 
-### ** 1. `HARMAN_TEST.R`**
+### 1. HARMAN_TEST.R
 The main R script, which includes:
 - Installation of **required R packages**.
 - **Panel data formatting** and transformation.
@@ -53,9 +53,14 @@ The main R script, which includes:
 - **Hausman Test execution** for model selection.
 - **Simple linear regression** for comparison.
 
-### ** 2. `README.md`**
+### 2. README.md
 Comprehensive documentation detailing:
 - How to **install and set up** the script.
 - How to **adapt it to different datasets**.
 - **Theoretical background** on panel models.
 - A step-by-step **workflow** for implementation.
+
+---
+## References
+GUJARATI, Damodar N. Basic Econometrics. 4. ed. New York: The McGraw-Hill Companies Inc., 2004.
+HAUSMAN, J. A. Specification Tests in Econometrics. Econometrica Vol. 46, No. 6 (Nov., 1978), pp. 1251-1271 WOOLDRIGE, Jeffrey M. Regression Analysis with Cross-Sectional Data. In: Introductory Econometrics: A Modern Approach. 5. ed. South-Western: Cengage Learning, 2013.
