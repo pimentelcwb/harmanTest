@@ -1,4 +1,4 @@
-# Harman Test for Panel Data Analysis
+# Hausman Test for Panel Data Analysis
 ## This script estimates fixed and random effects models and conducts the Hausman Test to determine the appropriate model for panel data.
 
 # INSTALL AND LOAD PACKAGES
