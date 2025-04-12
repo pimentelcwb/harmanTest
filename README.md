@@ -1,4 +1,4 @@
-# harmanTest overview
+# HausmanTest overview
 This repository provides a structured approach to **panel data analysis**, utilizing **fixed effects, random effects models, and the Hausman Test** to determine the most appropriate econometric model for analyzing panel datasets. Panel data allows for improved accuracy in statistical inference by accounting for **heterogeneity across entities** over time.
 
 By implementing **panel regression models**, this script enables users to analyze relationships between independent variables (**IVs**) and a dependent variable (**DV**) while handling potential omitted variable bias.
